@@ -1,0 +1,22 @@
+{
+  "name": "unrealNodebot",
+  "version": "1.0.0",
+  "description": "An IRC bot created in nodejs with node-irc",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "irc": "latest",
+    "lodash": "^3.3.0",
+    "request": "latest",
+    "irc-colors": "latest",
+    "sugar": "latest",
+    "bitly": "latest",
+    "cheerio": "latest",
+    "socket.io-client": "latest",
+    "winston": "latest"
+  },
+  "author": "Neil Ganotisi",
+  "license": "ISC"
+}
