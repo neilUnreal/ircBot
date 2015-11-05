@@ -35,12 +35,12 @@ var scriptCount = 1;
 
 process.env.NODE_TLS_REJECT_UNAUTHORIZED = "0";
 
-var server = 'grizzly.bearcopter.net'
+var server = '[serverUrl]'
 
 var nickname = 'wheatley2'
 
 var clientOptions = {
-	"channels"	: ["#halo"],
+	"channels"	: ["#channel"],
 	"debug"		: true,
 	"userName"	: "wheatley_2",
     "secure"	: false,
