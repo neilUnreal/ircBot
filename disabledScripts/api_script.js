@@ -2,10 +2,10 @@ var request = require('request');
 var c = require('irc-colors');
 var sugar = require('sugar');
 
-var youtubeAPIkey			 = "AIzaSyDdaOeWVacAykz7G7vY8KayuWxqTD0vWF4";
-var wundergroundAPIkey = "9e4f66079bdf2f7b";
-var mashapeAPIkey			 = "DJMwLAaUk9mshvtZpfPNT15CNF3Gp1AIEd1jsnznEX52fuWu2L";
-var xboxAPIkey				 = "d2f596b30bb2817344f664e3e3225ca5fce89526";
+var youtubeAPIkey			 = "removedForGitHub";
+var wundergroundAPIkey			 = "removedForGitHub";
+var mashapeAPIkey			 = "removedForGitHub";
+var xboxAPIkey				 = "removedForGitHub";
 
 /* Urban Dictionary
  * Will search the Urban Dictionary database (API by mashape) for known definitions of
