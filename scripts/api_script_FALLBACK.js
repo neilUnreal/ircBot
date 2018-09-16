@@ -2,9 +2,9 @@ var request = require('request');
 var c = require('irc-colors');
 var sugar = require('sugar');
 
-var youtubeAPIkey			 = "AIzaSyDdaOeWVacAykz7G7vY8KayuWxqTD0vWF4";
-var wundergroundAPIkey = "9e4f66079bdf2f7b";
-var mashapeAPIkey			 = "DJMwLAaUk9mshvtZpfPNT15CNF3Gp1AIEd1jsnznEX52fuWu2L";
+var youtubeAPIkey			 = "key";
+var wundergroundAPIkey = "key";
+var mashapeAPIkey			 = "key";
 
 /* URL Shortener.
  * Short is good. Uses Google API. No rate limit.
